@@ -1,0 +1,77 @@
+body{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ background-color: rgb(28, 26, 80);
+ border-radius: 10px 10px 10px 10px;
+}
+
+h1{
+ text-shadow: 10px 10px 10px;
+  color:white;
+  padding: 20px;
+  margin-top: 10px;
+  text-align: center;
+ }
+
+
+ form{
+  border:1px solid cornsilk;
+  border-radius: 10px 10px 10px 10px;
+  padding: 20px;
+ }
+
+ #myform{
+  border-radius: 10px 10px 10px 10px;
+  border: 100px solid rgb(48, 204, 204);
+ }
+
+ input[type=text],input[type=number]{
+  width: 100%;
+  height: 50px;
+  padding: 10px , 10px;
+  margin: 4px 0 ;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-sizing: border-box;
+ }
+
+ button{
+  background-color: rgb(59, 190, 216);
+  color: white;
+  padding: 10px 20px;
+  margin: 8px 0;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 100%;
+ }
+
+ button:hover{
+  opacity: 0.8;
+ }
+
+ 
+
+ 
+
+ #myfrom{
+  background-color: rgb(172, 205, 202);
+  padding: 16px;
+ }
+
+ label{
+  color:aliceblue;
+ }
+
+ 
+ span.container{
+  float: right;
+  padding-top: 16px;
+ }
+
+ @media screen and (max-width: 300px){
+  span.container{
+   display: block;
+   float:name
+ }
+ }
+  
